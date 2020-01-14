@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.375637mm"
+   height="16.9753mm"
+   viewBox="0 0 36.375637 16.975299"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="nilai.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1354885"
+     inkscape:cx="33.453299"
+     inkscape:cy="21.43693"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.223182,-249.66828)">
+    <rect
+       style="opacity:1;fill:#4caf50;fill-opacity:1;stroke:#ffffff;stroke-width:0.21706471;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect815"
+       width="36.158573"
+       height="16.758236"
+       x="41.331715"
+       y="249.77681" />
+    <path
+       id="path920"
+       d="m 55.432639,254.72962 h -5.384223 c -0.405498,0 -0.734211,0.3287 -0.734211,0.7342 v 5.38422 c 0,0.40549 0.328713,0.7342 0.734211,0.7342 h 5.384223 c 0.405499,0 0.734212,-0.32871 0.734212,-0.7342 v -5.38422 c 0,-0.4055 -0.328713,-0.7342 -0.734212,-0.7342 z m 0,6.11842 h -5.384223 v -5.38422 h 5.384223 z m -0.54858,-3.69744 -2.639935,2.61875 c -0.07196,0.0714 -0.188187,0.071 -0.259574,-6.8e-4 l -1.388595,-1.39983 c -0.07138,-0.072 -0.07092,-0.18819 0.0011,-0.2596 l 0.347511,-0.34471 c 0.07196,-0.0714 0.188188,-0.0709 0.259574,6.9e-4 l 0.914583,0.92201 2.162133,-2.14477 c 0.07197,-0.0714 0.188188,-0.0709 0.259575,6.9e-4 l 0.344713,0.34751 c 0.07138,0.072 0.07092,0.1882 -0.0011,0.25958 z"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:none;stroke-width:0.17995599;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888903px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.18855941"
+       x="63.819427"
+       y="259.86725"
+       id="text830"><tspan
+         sodipodi:role="line"
+         id="tspan828"
+         x="63.819427"
+         y="259.86725"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.18855941">NILAI</tspan></text>
+  </g>
+</svg>

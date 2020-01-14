@@ -1,0 +1,14 @@
+.prak{
+	@at-root #{&}-desc{
+		position: relative;
+		top: -2rem;
+		white-space: pre-line;
+	}
+	@at-root #{&}-title{
+		font-size: 3rem;
+		font-weight: bold;
+	}
+	@at-root #{&}-header{
+		background-color: white;
+	}
+}

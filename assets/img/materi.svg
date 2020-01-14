@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="36.375637mm"
+   height="16.9753mm"
+   viewBox="0 0 36.375637 16.975299"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="materi.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.1354885"
+     inkscape:cx="33.453299"
+     inkscape:cy="21.43693"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="740"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.223182,-249.66828)">
+    <rect
+       style="opacity:1;fill:#3f51b5;fill-opacity:1;stroke:#ffffff;stroke-width:0.21706471;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect815"
+       width="36.158573"
+       height="16.758236"
+       x="41.331715"
+       y="249.77681" />
+    <g
+       id="g878"
+       transform="translate(-22.965477,21.3105)"
+       style="fill:#ffffff">
+      <path
+         inkscape:transform-center-y="-0.6752218"
+         inkscape:transform-center-x="2.4940734"
+         style="fill:#ffffff;stroke-width:0.01338476"
+         inkscape:connector-curvature="0"
+         d="m 77.511235,238.23745 v -4.49729 c 0,-0.17803 -0.143216,-0.32123 -0.321234,-0.32123 h -4.390202 c -0.709392,0 -1.284937,0.57555 -1.284937,1.28494 v 4.28311 c 0,0.7094 0.575545,1.28495 1.284937,1.28495 h 4.390202 c 0.178018,0 0.321234,-0.14322 0.321234,-0.32123 v -0.21416 c 0,-0.10039 -0.04685,-0.19141 -0.119123,-0.2503 -0.05622,-0.20613 -0.05622,-0.79372 0,-0.99984 0.07228,-0.0575 0.119123,-0.14857 0.119123,-0.24895 z m -4.283123,-3.02496 c 0,-0.0441 0.03614,-0.0803 0.08031,-0.0803 h 2.837568 c 0.04417,0 0.08031,0.0362 0.08031,0.0803 v 0.26769 c 0,0.0443 -0.03614,0.0803 -0.08031,0.0803 h -2.837568 c -0.04417,0 -0.08031,-0.0362 -0.08031,-0.0803 z m 0,0.85662 c 0,-0.0442 0.03614,-0.0803 0.08031,-0.0803 h 2.837568 c 0.04417,0 0.08031,0.0362 0.08031,0.0803 v 0.26769 c 0,0.0442 -0.03614,0.0803 -0.08031,0.0803 h -2.837568 c -0.04417,0 -0.08031,-0.0362 -0.08031,-0.0803 z m 3.391698,3.34619 H 72.7998 c -0.23691,0 -0.428313,-0.19141 -0.428313,-0.42832 0,-0.23556 0.19274,-0.4283 0.428313,-0.4283 h 3.82001 c -0.02543,0.22887 -0.02543,0.62774 0,0.85662 z"
+         id="path817" />
+      <text
+         id="text864"
+         y="238.32921"
+         x="78.779472"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Bold';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.26458332;fill:#ffffff"
+           y="238.32921"
+           x="78.779472"
+           id="tspan862"
+           sodipodi:role="line">MATERI</tspan></text>
+    </g>
+  </g>
+</svg>

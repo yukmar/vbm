@@ -1,0 +1,146 @@
+@import 'pretest', 'admin';
+
+%iframe-responsive{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.skin-green{
+	.main-sidebar{
+		.sidebar{
+			padding-top: 4rem;
+		}
+	}
+
+	.main-header{
+		.logo{
+			// background-color: #222D32;
+			height: 75px;
+			.logo-lg{
+				padding-top: 1.5rem;
+				line-height: 2.5rem;
+			}
+			.logo-mini{
+				padding-top: 1rem;
+			}
+		}
+
+		.navbar{
+			// background-color: #222D32;
+			padding-top: 1.5rem;
+			.navbar-brand{
+				font-size: 2.5rem;
+			}
+
+			.nav{
+				i{
+					font-size: 2rem;
+					color: white;
+					@media (max-width: 750px){
+						display: none;
+					}
+				}
+			}
+		}
+	}
+
+	.box{
+		box-shadow: 0px 5px 10px #D4D4D4;
+		padding-bottom: 2rem;
+	}
+
+	.box-header{
+		// .box-title{
+		// 	font-size: 2.5rem;
+		// 	padding-top: 1rem;
+		// }
+	}
+
+	.box-body{
+		.item{
+			table, tr, td{
+				text-align: center;
+				vertical-align: middle;
+
+			
+			}
+			.type-options{
+				// height: 70px;
+				// width: 150px;
+				// background-color: crimson;
+				a{
+					// padding: 2rem 4rem;
+					// color: white;
+					// font-weight: bold;
+					i{
+						// font-size: 2rem;
+					}
+				}
+			}
+		}
+
+		
+	}
+
+	.box-video{
+		position: relative;
+		padding-bottom: 56.25%;
+		padding-top: 25px;
+		height: 0;
+
+		iframe{
+			@extend %iframe-responsive;
+		}
+	}
+
+	.box-pdf{
+		position: relative;
+		height: 100%;
+		padding-top: 25px;
+		padding-bottom: 100%;
+		iframe{
+			@extend %iframe-responsive;
+		}
+	}
+
+	.flexrow{
+		display: flex;
+		.box-etalase{
+			flex-wrap: wrap;
+		}
+	}
+
+	.line-shape{
+		border: 1px solid #c9c9c9;
+		width: 90%;
+		margin-left: 1rem;
+	}
+
+	.content-wrapper{
+
+		.content-header{
+			@media (max-width: 750px){
+				margin-top: 3rem;
+			}
+			.breadcrumb{
+				@media (min-width: 751px){
+					position: static;
+					display: block;
+				}
+			}
+
+			h1{
+				small{
+					padding-top: 1rem;
+				}
+				@media (max-width: 750px){
+					line-height: 3rem;
+					padding-top: 1rem;
+				}
+			}
+		}
+	}
+}

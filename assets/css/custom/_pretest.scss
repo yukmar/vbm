@@ -1,0 +1,20 @@
+.pretest{
+	display: flex;
+	margin-bottom: 2rem;
+
+	@at-root #{&}-no{
+		font-weight: bold;
+		padding-right: 1rem;
+		flex-wrap: wrap;
+	}
+
+	@at-root #{&}-content{
+		width: 100%;
+		textarea{
+			width: 100%;
+		}
+		input{
+			width: 50px;
+		}
+	}
+}
